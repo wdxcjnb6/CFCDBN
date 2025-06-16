@@ -1,6 +1,6 @@
-# CFCDGN
+# CFCDBN
 
-MATLAB implementation of **CFCDGN: A framework for modeling cross-frequency coupling directed brain networks**.
+MATLAB implementation of **CFCDBN: A framework for modeling cross-frequency coupling directed brain networks**.
 
 This repository provides the core code and resources used in the study:
 
@@ -10,7 +10,7 @@ This repository provides the core code and resources used in the study:
 
 ## Overview
 
-The CFCDGN framework integrates individualized phase–amplitude coupling (PAC) features with directed brain network (DBN) modeling to analyze aberrant oscillatory communication patterns in adolescents with anxiety disorders (AD).
+The CFCDBN framework integrates individualized phase–amplitude coupling (PAC) features with directed brain network (DBN) modeling to analyze aberrant oscillatory communication patterns in adolescents with anxiety disorders (AD).
 
 It supports:
 - **Dynamic estimation of cross-frequency coupling (CFC)** using individualized oscillatory bands
