@@ -27,8 +27,8 @@ It supports:
 - [**FieldTrip Toolbox**](https://www.fieldtriptoolbox.org/) — for source modeling and connectivity estimation  
 - [**EEGLAB Toolbox**](https://sccn.ucsd.edu/eeglab/index.php) — for EEG preprocessing  
 - **Signal Processing Toolbox** — for time–frequency and filtering operations  
-- [**MIPAC Toolbox**](https://github.com/TNTLFreiburg/MIPAC) — for robust PAC estimation  
-- [**Transfer Entropy (TE) Toolbox**](https://github.com/Lobachevskyy/TE-CausalityToolbox) — for directional interaction inference  
+- [**MIPAC Toolbox**]([https://github.com/TNTLFreiburg/MIPAC](https://github.com/sccn/PACTools)) — for robust PAC estimation  
+- [**Transfer Entropy (TE) Toolbox**]([https://github.com/Lobachevskyy/TE-CausalityToolbox](https://github.com/trentool/TRENTOOL3)) — for directional interaction inference  
 
 ### Python (optional, for visualization or supplementary preprocessing)
 - Python 3.8+  
