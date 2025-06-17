@@ -10,8 +10,9 @@ This repository provides the core code and resources used in the study:
 
 ## Overview
 
-The CFCDBN framework integrates individualized phase–amplitude coupling (PAC) features with directed brain network (DBN) modeling to analyze aberrant oscillatory communication patterns in adolescents with anxiety disorders (AD).
-This repository provides the official implementation of the CFCDBN framework, designed to model dynamic, cross-frequency, and directionally-organized brain networks based on EEG data. CFCDBN integrates personalized phase–amplitude coupling (PAC) analysis with causal information flow estimation, enabling the construction of interpretable and subject-specific directed brain networks.
+The **CFCDBN** framework integrates individualized phase–amplitude coupling (PAC) features with directed brain network (DBN) modeling to investigate aberrant oscillatory communication patterns in adolescents with anxiety disorders (AD).
+
+This repository provides the official implementation of the CFCDBN framework for constructing dynamic, cross-frequency, and directionally-organized brain networks from EEG data. The framework combines personalized PAC estimation with causal interaction modeling to generate interpretable, subject-specific directed brain networks, supporting both mechanistic analysis and automated classification of AD-related neural dynamics.
 
 It supports:
 - **Dynamic estimation of cross-frequency coupling (CFC)** using individualized oscillatory bands
@@ -27,8 +28,8 @@ It supports:
 - [**FieldTrip Toolbox**](https://www.fieldtriptoolbox.org/) — for source modeling and connectivity estimation  
 - [**EEGLAB Toolbox**](https://sccn.ucsd.edu/eeglab/index.php) — for EEG preprocessing  
 - **Signal Processing Toolbox** — for time–frequency and filtering operations  
-- [**MIPAC Toolbox**]([https://github.com/TNTLFreiburg/MIPAC](https://github.com/sccn/PACTools)) — for robust PAC estimation  
-- [**Transfer Entropy (TE) Toolbox**]([https://github.com/Lobachevskyy/TE-CausalityToolbox](https://github.com/trentool/TRENTOOL3)) — for directional interaction inference  
+- [**MIPAC Toolbox**](https://github.com/sccn/PACTools) — for robust PAC estimation  
+- [**Transfer Entropy (TE) Toolbox**](https://github.com/trentool/TRENTOOL3) — for directional interaction inference  
 
 ### Python (optional, for visualization or supplementary preprocessing)
 - Python 3.8+  
