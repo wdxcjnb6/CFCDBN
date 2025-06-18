@@ -4,7 +4,7 @@ CFCDBN: A Framework for Modeling Cross-Frequency Coupling Directed Brain Network
 
 This repository provides the core code and resources used in the study:
 
-**"Characterizing Cross-Frequency Directed Brain Networks in Adolescent Anxiety via Graph-Based Modeling"**
+**"CFCDBN: Personalized Directional Brain Network Modeling of Cross-Frequency Coupling Alterations in Adolescent Anxiety Disorders"**
 
 ---
 
